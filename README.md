@@ -1,5 +1,5 @@
 - 👋 Hi, I’m a GOLANG developer
-- 👀 I’m interested in coding,
+- 👀 I’m interested in coding, nature and universe itself
 - 🌱 I’m currently learning CMOS
 - 💞️ I’m looking to collaborate on any interesting ideas, projects, etc
 
