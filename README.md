@@ -1,6 +1,5 @@
-- 👋 Hi, I’m a GOLANG developer
+- 👋 Hi, I’m a Rust/Golang/Erlang developer, who likes distribution systems programming
 - 👀 I’m interested in coding, nature and universe itself
-- 🌱 I’m currently learning CMOS
 - 💞️ I’m looking to collaborate on any interesting ideas, projects, etc
 
 <!---
